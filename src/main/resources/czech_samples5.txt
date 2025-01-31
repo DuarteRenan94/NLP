@@ -1,0 +1,12 @@
+Skloňováním se v češtině vyjadřuje jednotné (singulár) a množné (plurál) číslo a sedm pádů – nominativ, genitiv, 
+dativ, akuzativ, vokativ, lokál a instrumentál. Obě tyto mluvnické kategorie jsou vyjadřovány vždy připojením jediné 
+koncovky, např. koncovka -u ve tvaru ženu vyjadřuje akuzativ a jednotné číslo slova žena. Volba koncovek záleží 
+na slovním druhu,  rodu a typu skloňování. Pro každý typ existuje vlastní vzor skloňování, který má vlastní sadu 
+koncovek. V rámci  jednotlivých typů skloňování jsou vždy některé koncovky společné pro více pádů (např. pána je 
+genitiv a akuzativ singuláru slova pán), žádné slovo proto nemá 14 různých tvarů.
+
+V podrobnější teorii se ze sématnického a syntaktického hlediska někdy rozlišuje v češtině více pádů, další pády
+jsou však zpravidla pojímány jako speciální případy či varianty některého ze 7 základních pádů. Například pod 6.
+pád (nazývaný lokál) je zahrnut i propozitiv (mluvit o něčem) či temporál (v týdnu) nebo v rámci 2. pádu
+(nazývaného genitiv) lze rozlišovat též negativ, partitiv a numerativ.[1] V některých případech toto rozlišení 
+může mít vliv i na preferenci tvarové varianty (o hradu, na hradě).
