@@ -15,7 +15,7 @@ import static java.lang.System.out;
 public class NLPTest {
     @Test
     public void testarTokenizador(){
-        String texto = "Agravo de instrumento";
+        String texto = "Lorem ipsum";
         TextProcessor tp = new TextProcessor(texto);
         String res = "Texto antes do processamento: "+texto;
         out.println(res);
